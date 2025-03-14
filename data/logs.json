@@ -1,0 +1,402 @@
+[
+    {
+        "@timestamp": "2025-03-12T21:20:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 39948,
+        "log_level": "INFO",
+        "message": "Random event on switch-42 - Configuration change detected"
+    },
+    {
+        "@timestamp": "2025-03-13T07:12:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 83151,
+        "log_level": "ERROR",
+        "message": "Random event on server-app - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-13T06:26:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 174284,
+        "log_level": "DEBUG",
+        "message": "Random event on switch-42 - No activity in last 24h"
+    },
+    {
+        "@timestamp": "2025-03-12T18:53:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 119398,
+        "log_level": "ERROR",
+        "message": "Random event on server-app - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-13T06:41:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 213799,
+        "log_level": "DEBUG",
+        "message": "Random event on firewall-02 - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-13T08:34:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 51943,
+        "log_level": "DEBUG",
+        "message": "Random event on switch-42 - Disk full"
+    },
+    {
+        "@timestamp": "2025-03-13T03:15:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 38870,
+        "log_level": "WARNING",
+        "message": "Random event on firewall-02 - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-12T23:38:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 368580,
+        "log_level": "INFO",
+        "message": "Random event on switch-42 - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-12T18:04:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 95936,
+        "log_level": "ERROR",
+        "message": "Random event on server-app - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-13T09:00:37.601132Z",
+        "host": "server-db",
+        "system": "Ubuntu 20.04",
+        "uptime": 133118,
+        "log_level": "ERROR",
+        "message": "Random event on server-db - Configuration change detected"
+    },
+    {
+        "@timestamp": "2025-03-12T22:56:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 76487,
+        "log_level": "INFO",
+        "message": "Random event on switch-42 - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-13T06:09:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 211554,
+        "log_level": "DEBUG",
+        "message": "Random event on router-01 - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-12T22:58:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 166052,
+        "log_level": "WARNING",
+        "message": "Random event on server-app - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-12T15:45:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 1490,
+        "log_level": "INFO",
+        "message": "Random event on server-app - Disk full"
+    },
+    {
+        "@timestamp": "2025-03-12T18:06:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 283430,
+        "log_level": "WARNING",
+        "message": "Random event on firewall-02 - Connection lost"
+    },
+    {
+        "@timestamp": "2025-03-12T15:23:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 251339,
+        "log_level": "ERROR",
+        "message": "Random event on switch-42 - Configuration change detected"
+    },
+    {
+        "@timestamp": "2025-03-13T09:13:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 353808,
+        "log_level": "WARNING",
+        "message": "Random event on server-app - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-13T09:44:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 57306,
+        "log_level": "WARNING",
+        "message": "Random event on server-app - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-12T23:35:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 178602,
+        "log_level": "ERROR",
+        "message": "Random event on firewall-02 - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-13T01:20:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 254215,
+        "log_level": "DEBUG",
+        "message": "Random event on router-01 - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-13T01:45:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 387740,
+        "log_level": "INFO",
+        "message": "Random event on router-01 - Configuration change detected"
+    },
+    {
+        "@timestamp": "2025-03-13T13:59:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 196844,
+        "log_level": "DEBUG",
+        "message": "Random event on firewall-02 - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-12T19:20:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 496386,
+        "log_level": "ERROR",
+        "message": "Random event on switch-42 - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-13T10:06:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 2507,
+        "log_level": "INFO",
+        "message": "Random event on server-app - Connection lost"
+    },
+    {
+        "@timestamp": "2025-03-13T10:03:37.601132Z",
+        "host": "server-db",
+        "system": "Ubuntu 20.04",
+        "uptime": 39519,
+        "log_level": "WARNING",
+        "message": "Random event on server-db - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-13T13:47:37.601132Z",
+        "host": "workstation-01",
+        "system": "Windows 10",
+        "uptime": 31151,
+        "log_level": "DEBUG",
+        "message": "Random event on workstation-01 - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-12T23:22:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 309572,
+        "log_level": "INFO",
+        "message": "Random event on router-01 - Firmware update successful"
+    },
+    {
+        "@timestamp": "2025-03-12T21:55:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 438390,
+        "log_level": "WARNING",
+        "message": "Random event on server-app - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-12T22:15:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 479065,
+        "log_level": "DEBUG",
+        "message": "Random event on router-01 - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-12T15:19:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 109099,
+        "log_level": "INFO",
+        "message": "Random event on firewall-02 - No activity in last 24h"
+    },
+    {
+        "@timestamp": "2025-03-12T23:02:37.601132Z",
+        "host": "server-db",
+        "system": "Ubuntu 20.04",
+        "uptime": 210182,
+        "log_level": "WARNING",
+        "message": "Random event on server-db - No activity in last 24h"
+    },
+    {
+        "@timestamp": "2025-03-13T02:04:37.601132Z",
+        "host": "server-db",
+        "system": "Ubuntu 20.04",
+        "uptime": 68169,
+        "log_level": "DEBUG",
+        "message": "Random event on server-db - Disk full"
+    },
+    {
+        "@timestamp": "2025-03-13T13:47:37.601132Z",
+        "host": "workstation-01",
+        "system": "Windows 10",
+        "uptime": 391752,
+        "log_level": "WARNING",
+        "message": "Random event on workstation-01 - Unauthorized access attempt"
+    },
+    {
+        "@timestamp": "2025-03-13T06:34:37.601132Z",
+        "host": "server-app",
+        "system": "MikroTik RouterOS",
+        "uptime": 410111,
+        "log_level": "WARNING",
+        "message": "Random event on server-app - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-13T08:05:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 295678,
+        "log_level": "WARNING",
+        "message": "Random event on router-01 - Configuration change detected"
+    },
+    {
+        "@timestamp": "2025-03-13T05:00:37.601132Z",
+        "host": "workstation-01",
+        "system": "Windows 10",
+        "uptime": 81372,
+        "log_level": "INFO",
+        "message": "Random event on workstation-01 - No activity in last 24h"
+    },
+    {
+        "@timestamp": "2025-03-13T04:19:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 9531,
+        "log_level": "WARNING",
+        "message": "Random event on switch-42 - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-12T18:57:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 164683,
+        "log_level": "WARNING",
+        "message": "Random event on switch-42 - Network congestion detected"
+    },
+    {
+        "@timestamp": "2025-03-12T23:04:37.601132Z",
+        "host": "workstation-01",
+        "system": "Windows 10",
+        "uptime": 405930,
+        "log_level": "INFO",
+        "message": "Random event on workstation-01 - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-12T23:42:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 114505,
+        "log_level": "WARNING",
+        "message": "Random event on router-01 - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-12T15:24:37.601132Z",
+        "host": "workstation-01",
+        "system": "Windows 10",
+        "uptime": 120240,
+        "log_level": "INFO",
+        "message": "Random event on workstation-01 - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-12T15:10:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 152488,
+        "log_level": "WARNING",
+        "message": "Random event on switch-42 - Configuration change detected"
+    },
+    {
+        "@timestamp": "2025-03-12T17:20:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 111140,
+        "log_level": "INFO",
+        "message": "Random event on firewall-02 - Unauthorized access attempt"
+    },
+    {
+        "@timestamp": "2025-03-13T09:49:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 454763,
+        "log_level": "ERROR",
+        "message": "Random event on router-01 - Unauthorized access attempt"
+    },
+    {
+        "@timestamp": "2025-03-13T06:43:37.601132Z",
+        "host": "server-db",
+        "system": "Ubuntu 20.04",
+        "uptime": 280138,
+        "log_level": "ERROR",
+        "message": "Random event on server-db - Firmware update successful"
+    },
+    {
+        "@timestamp": "2025-03-13T01:27:37.601132Z",
+        "host": "switch-42",
+        "system": "Juniper JUNOS",
+        "uptime": 474422,
+        "log_level": "ERROR",
+        "message": "Random event on switch-42 - Configuration change detected"
+    },
+    {
+        "@timestamp": "2025-03-13T07:43:37.601132Z",
+        "host": "router-01",
+        "system": "Debian 11",
+        "uptime": 333436,
+        "log_level": "DEBUG",
+        "message": "Random event on router-01 - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-13T09:30:37.601132Z",
+        "host": "workstation-01",
+        "system": "Windows 10",
+        "uptime": 484806,
+        "log_level": "INFO",
+        "message": "Random event on workstation-01 - System overload detected"
+    },
+    {
+        "@timestamp": "2025-03-13T06:33:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 111118,
+        "log_level": "WARNING",
+        "message": "Random event on firewall-02 - Service restarted"
+    },
+    {
+        "@timestamp": "2025-03-12T14:24:37.601132Z",
+        "host": "firewall-02",
+        "system": "Palo Alto PAN-OS",
+        "uptime": 143057,
+        "log_level": "INFO",
+        "message": "Random event on firewall-02 - No activity in last 24h"
+    }
+]

@@ -1,0 +1,82 @@
+{
+    "trames": [
+        {
+            "id": 1,
+            "timestamp": "2025-03-14T12:00:00Z",
+            "client": "Client_A",
+            "relay": "Relay_1",
+            "data": "Trame data 1",
+            "status": "transmitted"
+        },
+        {
+            "id": 2,
+            "timestamp": "2025-03-14T12:05:00Z",
+            "client": "Client_B",
+            "relay": "Relay_2",
+            "data": "Trame data 2",
+            "status": "transmitted"
+        },
+        {
+            "id": 3,
+            "timestamp": "2025-03-14T12:10:00Z",
+            "client": "Client_A",
+            "relay": "Relay_1",
+            "data": "Trame data 3",
+            "status": "transmitted"
+        },
+        {
+            "id": 4,
+            "timestamp": "2025-03-14T12:15:00Z",
+            "client": "Client_C",
+            "relay": "Relay_3",
+            "data": "Trame data 4",
+            "status": "transmitted"
+        }
+    ],
+    "relais": [
+        {
+            "name": "Relay_1",
+            "last_used": "2025-03-14T12:10:00Z",
+            "trames_relayed": 2,
+            "clients_associated": 2
+        },
+        {
+            "name": "Relay_2",
+            "last_used": "2025-03-14T12:05:00Z",
+            "trames_relayed": 1,
+            "clients_associated": 1
+        },
+        {
+            "name": "Relay_3",
+            "last_used": "2025-03-14T12:15:00Z",
+            "trames_relayed": 1,
+            "clients_associated": 1
+        }
+    ],
+    "clients": [
+        {
+            "name": "Client_A",
+            "last_used": "2025-03-14T12:10:00Z",
+            "relais_used": [
+                "Relay_1"
+            ],
+            "trames_sent": 2
+        },
+        {
+            "name": "Client_B",
+            "last_used": "2025-03-14T12:05:00Z",
+            "relais_used": [
+                "Relay_2"
+            ],
+            "trames_sent": 1
+        },
+        {
+            "name": "Client_C",
+            "last_used": "2025-03-14T12:15:00Z",
+            "relais_used": [
+                "Relay_3"
+            ],
+            "trames_sent": 1
+        }
+    ]
+}

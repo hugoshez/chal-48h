@@ -1,0 +1,302 @@
+[
+    {
+        "machine": "PC-001",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-002",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "30"
+    },
+    {
+        "machine": "PC-003",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-004",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-005",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-006",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "20"
+    },
+    {
+        "machine": "PC-007",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-008",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-009",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-010",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-011",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-012",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-013",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-014",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-015",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-016",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-017",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "20"
+    },
+    {
+        "machine": "PC-018",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-019",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "20"
+    },
+    {
+        "machine": "PC-020",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-021",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-022",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-023",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "20"
+    },
+    {
+        "machine": "PC-024",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-025",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-026",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-027",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-028",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-029",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-030",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-031",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-032",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-033",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "30"
+    },
+    {
+        "machine": "PC-034",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "30"
+    },
+    {
+        "machine": "PC-035",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "20"
+    },
+    {
+        "machine": "PC-036",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-037",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-038",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-039",
+        "configurationMdpLongueurMinimum": "12",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-040",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-041",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "20"
+    },
+    {
+        "machine": "PC-042",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-043",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-044",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "400",
+        "configurationMdpDureeVerrouillage": "20"
+    },
+    {
+        "machine": "PC-045",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "10"
+    },
+    {
+        "machine": "PC-046",
+        "configurationMdpLongueurMinimum": "8",
+        "configurationMdpAgeMaximum": "90",
+        "configurationMdpDureeVerrouillage": "30"
+    },
+    {
+        "machine": "PC-047",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-048",
+        "configurationMdpLongueurMinimum": "16",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "5"
+    },
+    {
+        "machine": "PC-049",
+        "configurationMdpLongueurMinimum": "10",
+        "configurationMdpAgeMaximum": "180",
+        "configurationMdpDureeVerrouillage": "15"
+    },
+    {
+        "machine": "PC-050",
+        "configurationMdpLongueurMinimum": "14",
+        "configurationMdpAgeMaximum": "365",
+        "configurationMdpDureeVerrouillage": "20"
+    }
+]
